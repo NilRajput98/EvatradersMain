@@ -27,7 +27,7 @@ Getting Started
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/eva-traders-website.git
+   git clone ( https://github.com/NilRajput98/EvatradersMain.git )
 2. Open the project folder:
    cd eva-traders-website
 3. Open index.html in your preferred web browser.
